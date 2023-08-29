@@ -1,15 +1,15 @@
 {
-  "name": "Ice-Project",
+  "name": "ice-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://markovoitovych.github.io/IceProject/",
+  "homepage": "https://github.com/MarkoVoitovych/IceCream-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /IceProject/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarkoVoitovych/IceProject.git"
+    "url": "git+https://github.com/MarkoVoitovych/IceCream-project"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
